@@ -1,0 +1,7 @@
+train: /content/airplanes/images/train/ 
+val: /content/airplanes/images/train/
+
+# number of classes
+nc: 1
+# class names
+names: [ 'airplanes' ]
